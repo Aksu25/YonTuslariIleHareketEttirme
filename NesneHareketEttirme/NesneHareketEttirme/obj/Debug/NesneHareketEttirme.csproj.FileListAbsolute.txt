@@ -1,0 +1,10 @@
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\bin\Debug\NesneHareketEttirme.exe.config
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\bin\Debug\NesneHareketEttirme.exe
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\bin\Debug\NesneHareketEttirme.pdb
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\obj\Debug\NesneHareketEttirme.csproj.AssemblyReference.cache
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\obj\Debug\NesneHareketEttirme.frmNesne.resources
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\obj\Debug\NesneHareketEttirme.Properties.Resources.resources
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\obj\Debug\NesneHareketEttirme.csproj.GenerateResource.cache
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\obj\Debug\NesneHareketEttirme.csproj.CoreCompileInputs.cache
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\obj\Debug\NesneHareketEttirme.exe
+D:\yeni\vsProjeler\NesneHareketEttirme\NesneHareketEttirme\obj\Debug\NesneHareketEttirme.pdb
